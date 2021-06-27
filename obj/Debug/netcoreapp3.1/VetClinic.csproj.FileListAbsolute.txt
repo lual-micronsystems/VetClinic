@@ -1,0 +1,5 @@
+/Users/laubrey/VetClinic/obj/Debug/netcoreapp3.1/VetClinic.csproj.AssemblyReference.cache
+/Users/laubrey/VetClinic/obj/Debug/netcoreapp3.1/VetClinic.AssemblyInfoInputs.cache
+/Users/laubrey/VetClinic/obj/Debug/netcoreapp3.1/VetClinic.AssemblyInfo.cs
+/Users/laubrey/VetClinic/obj/Debug/netcoreapp3.1/VetClinic.csproj.CoreCompileInputs.cache
+/Users/laubrey/VetClinic/obj/Debug/netcoreapp3.1/VetClinic.MvcApplicationPartsAssemblyInfo.cache
